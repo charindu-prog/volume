@@ -1,0 +1,7 @@
+package firstone
+
+object faren extends App{
+    def convert(celsius:Double)=celsius*1.800+32.000;
+    println("faren value of"+35+"celsius is"+convert(35));
+  
+}
